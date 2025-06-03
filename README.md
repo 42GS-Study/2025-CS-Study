@@ -5,17 +5,23 @@
 2. 모여서 공부한 내용 기반으로 README를 작성해서 올립니다.
 
 ## 진행 차례
+- 네트워크: 1 ~ 주차 진행
+- 데이터베이스
+- 운영체제
+- 자료구조
+- 디자인 패턴
 
+## 주제
 ### 네트워크(1~주차 진행)
-<details>
-<summary> 네트워크 질문 모음 </summary>
-<div markdown="1">
-- [컴퓨터 네트워크는 무엇인가요?](https://github.com/42GS-Study/2025-CS-Study/issues/2) <br> 
-- [컴퓨터 네트워크에서 데이터를 전송하는 방식에 대해 설명해주세요.] (https://github.com/42GS-Study/2025-CS-Study/issues/2) <br> 
-- [프로토콜에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3) <br> 
-- [OSI 7 Layer에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3) <br> 
-- [TCP/IP에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/4) <br> 
-- [OSI 7 Layer, TCP/IP 처럼 프로토콜을 계층화하는 이유가 뭘까요?](https://github.com/42GS-Study/2025-CS-Study/issues/4) <br> 
+<!-- <details>
+<summary> 네트워크 질문 모음 </summary> -->
+
+- [컴퓨터 네트워크는 무엇인가요?](https://github.com/42GS-Study/2025-CS-Study/issues/2)
+- [컴퓨터 네트워크에서 데이터를 전송하는 방식에 대해 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/2)
+- [프로토콜에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3)
+- [OSI 7 Layer에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3)
+- [TCP/IP에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/4)
+- [OSI 7 Layer, TCP/IP 처럼 프로토콜을 계층화하는 이유가 뭘까요?](https://github.com/42GS-Study/2025-CS-Study/issues/4)
 - 컴퓨터 네트워크에서 캡슐화와 비캡슐화에 대해서 설명해주세요. <br> 
 - NIC, 리피터, 리피터 허브에 대해서 설명해주세요. <br> 
 - 브리지에 대해서 설명해주세요. <br> 
@@ -80,9 +86,8 @@
 - IP는 어떻게 할당될까요? <br> 
 - NAT가 뭘까요? <br> 
 - ICMP가 뭘까요? <br> 
-</div>
-</details>
 
+<!-- </details> -->
 
 ### 데이터베이스
 ### 운영체제
