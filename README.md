@@ -10,12 +10,12 @@
 <details>
 <summary> 네트워크 질문 모음 </summary>
 <div markdown="1">
-- 컴퓨터 네트워크는 무엇인가요? <br> 
-- 컴퓨터 네트워크에서 데이터를 전송하는 방식에 대해 설명해주세요. <br> 
-- 프로토콜에 대해서 설명해주세요. <br> 
-- OSI 7 Layer에 대해서 설명해주세요. <br> 
-- TCP/IP에 대해서 설명해주세요. <br> 
-- OSI 7 Layer, TCP/IP 처럼 프로토콜을 계층화하는 이유가 뭘까요? <br> 
+- [컴퓨터 네트워크는 무엇인가요?](https://github.com/42GS-Study/2025-CS-Study/issues/2) <br> 
+- [컴퓨터 네트워크에서 데이터를 전송하는 방식에 대해 설명해주세요.] (https://github.com/42GS-Study/2025-CS-Study/issues/2) <br> 
+- [프로토콜에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3) <br> 
+- [OSI 7 Layer에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/3) <br> 
+- [TCP/IP에 대해서 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/4) <br> 
+- [OSI 7 Layer, TCP/IP 처럼 프로토콜을 계층화하는 이유가 뭘까요?](https://github.com/42GS-Study/2025-CS-Study/issues/4) <br> 
 - 컴퓨터 네트워크에서 캡슐화와 비캡슐화에 대해서 설명해주세요. <br> 
 - NIC, 리피터, 리피터 허브에 대해서 설명해주세요. <br> 
 - 브리지에 대해서 설명해주세요. <br> 
