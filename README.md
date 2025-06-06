@@ -17,7 +17,7 @@
 <summary> 네트워크 질문 모음 </summary> -->
 
 - [컴퓨터 네트워크는 무엇인가요? 컴퓨터 네트워크에서 데이터를 전송하는 방식에 대해 설명해주세요.](https://github.com/42GS-Study/2025-CS-Study/issues/7)
-- 프로토콜에 대해서 설명해주세요.
+- [프로토콜에 대해서 설명해주세요](https://github.com/42GS-Study/2025-CS-Study/issues/8)
 - OSI 7 Layer에 대해서 설명해주세요.
 - TCP/IP에 대해서 설명해주세요.
 - OSI 7 Layer, TCP/IP 처럼 프로토콜을 계층화하는 이유가 뭘까요?
